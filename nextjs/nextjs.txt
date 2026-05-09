@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#guid column:5
+#notetype column:4
+#deck column:3
+#tags column:6
+
+Next.js 是一个用于构建{{c1::全栈}} Web 应用程序的 React 框架。	Next.js 提供了在 React 组件基础上的附加功能和优化。	ADC/nextjs	Cloze	NEXT-01-00001	Next.js定义
+在 Next.js 中，开发者使用 {{c1::React 组件 (React Components)}} 来构建用户界面。	Next.js 负责提供附加功能、优化和配置底层工具。	ADC/nextjs	Cloze	NEXT-01-00002	UI构建基础
+Next.js 会自动配置开发所需的底层工具，例如打包工具（bundlers）和{{c1::编译器（compilers）}}。	开发者可以专注于构建产品，从而实现快速迭代和交付。	ADC/nextjs	Cloze	NEXT-01-00003	工具自动配置
+Next.js 官方文档主要分为三个部分：入门指导（Getting Started）、指南（Guides）和 {{c1::API 参考（API Reference）}}。	入门指导包含教程，指南包含特定用例，API 参考提供详细技术规范。	ADC/nextjs	Cloze	NEXT-01-00004	文档结构
+Next.js 提供了两种不同的路由模式：{{c1::App Router}} 和 Pages Router。	App Router 是较新版本，而 Pages Router 是原始版本但仍在持续改进中。	ADC/nextjs	Cloze	NEXT-01-00005	路由分类
+Next.js 的 App Router 支持了最新的 React 特性，例如 {{c1::服务器组件（Server Components）}}。	这是 App Router 相较于旧版路由的重要区别之一。	ADC/nextjs	Cloze	NEXT-01-00006	AppRouter特性
+Next.js 的 App Router 内置使用了 React 的 {{c1::金丝雀（canary）}} 发布版本。	该版本包含了所有稳定的 React 19 更改以及正在验证的新特性。	ADC/nextjs	Cloze	NEXT-01-00007	AppRouter的React版本依赖
+Next.js 的 Pages Router 会直接使用项目 {{c1::package.json}} 文件中安装的 React 版本。	这种处理方式确保了现有 Pages Router 应用程序的向后兼容性。	ADC/nextjs	Cloze	NEXT-01-00008	PagesRouter的React版本依赖
+为了获得最佳的无障碍屏幕阅读器体验，Next.js 推荐使用 Firefox 配合 {{c1::NVDA}}，或 Safari 配合 VoiceOver。	这是针对无障碍访问（Accessibility）的官方建议。	ADC/nextjs	Cloze	NEXT-01-00009	无障碍访问推荐
+在浏览 Next.js 官方文档时，可以使用快捷键 {{c1::Ctrl+K 或 Cmd+K}} 快速唤起搜索功能。	通过此快捷键或侧边栏可以快速定位页面。	ADC/nextjs	Cloze	NEXT-01-00010	文档搜索快捷键

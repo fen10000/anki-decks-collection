@@ -1,7 +1,7 @@
-#separator:tab
-#html:true
-#guid column:1
-#notetype column:2
-#deck column:3
-#tags column:6
+#separator:tab					
+#html:true					
+#guid column:5					
+#notetype column:4					
+#deck column:3					
+#tags column:6					
 
