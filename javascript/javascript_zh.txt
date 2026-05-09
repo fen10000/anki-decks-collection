@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+
+d;$*%FnGgw	Cloze	Default::Daily::clozeTest	这是3个{{c1::测试}}&nbsp;&nbsp;&nbsp;牌组	121311 123	bc
